@@ -23,10 +23,6 @@ gem 'figaro'
 gem 'fabrication'
 gem 'faker'
 gem 'launchy'
-gem 'stripe'
-gem 'vcr'
-gem 'webmock'
-
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.14.2'
